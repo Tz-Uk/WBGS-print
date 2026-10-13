@@ -68,4 +68,3 @@ The status line under the button shows progress and turns green when it's done (
 
 Released under the MIT Licence, so you're free to use and change it. It is provided **as is, without warranty of any kind. Use at your own risk.** See the `LICENSE` file for details.
 
-© 2026 Your Name
