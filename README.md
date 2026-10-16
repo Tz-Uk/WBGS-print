@@ -1,5 +1,6 @@
 # WBGS print
-# Lets you print files to the library printer in full colour, for free!
+# Lets you print files to the library printer
+#only use if you have permission from a member of staff 
 <!-- NERD STUFF:
 The way this works is the printer accepts anonymous printer connections over wifi, thats all it is lol
 
